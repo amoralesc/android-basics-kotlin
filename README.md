@@ -27,9 +27,8 @@ The steps I had to reproduce for each project so I could build it were:
 - In `build.gradle (Project)`, update the dependencies for gradle build and kotlin to latest, update the ext variables for versioning to latest
 - In `build.gradle (module)`, update the dependencies versions to latest if not using ext variables
 
-If you are getting this code and use different versions than mine, you will probably have build errors too, and will need to reproduce some of the steps I did to fix them.
+If you are getting the code and you use different versions than mine, you will probably have build errors too, and will need to reproduce some of the steps I did to fix them.
 
 ## Summary
 
 The summary for each of the projects can be found in `SUMMARY.md`
-
