@@ -32,3 +32,7 @@ If you are getting the code and you use different versions than mine, you will p
 ## Summary
 
 The summary for each of the projects can be found in `SUMMARY.md`
+
+## License notice
+
+Most of the code in this repository is licensed under the Apache 2.0 license and copyright of The Android Open Source Project. All modifications and changes done are under the Apache 2.0 license too.
