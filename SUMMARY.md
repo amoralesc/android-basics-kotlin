@@ -8,6 +8,8 @@ The course is divided into six units. This summary presents all the concepts exp
 
 *From the "Build a basic layout" codelab*
 
+<img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/happy_birthday_1.png" width="200">
+
 Really simple project. It's a single activity - single screen app that displays a birthday message.
 
 #### Concepts explored
@@ -18,6 +20,8 @@ Really simple project. It's a single activity - single screen app that displays 
 ### [Dice Roller](DiceRoller/)
 
 *From the "Add a button to an app" section*
+
+<img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/dice_roller_1.png" width="200">
 
 Simple project. It's a single activity - single screen app that displays a dice (image) that can be rolled with a button. 
 
@@ -32,6 +36,11 @@ Simple project. It's a single activity - single screen app that displays a dice 
 
 *From the "Project: Lemonade App" codelab*
 
+<div style="float: left">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/lemonade_app_1.png" width="200">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/lemonade_app_2.png" width="200">
+</div>
+  
 Simple project with states. It's a single activity - single screen app that displays the interactive process of making lemonade. It does so by introducing states. According to the current state of the app, a different image is displayed.
 
 #### Concepts explored
@@ -46,6 +55,8 @@ Simple project with states. It's a single activity - single screen app that disp
 
 *From the "Get user input in an app: Part 1" and "Get user input in an app: Part 2" sections*
 
+<img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/tip_time_1.png" width="200">
+
 Simple project. It's a single activity - single screen app that acts as a tip calculator. It asks the user for mulitple inputs, and then displays the calculated tip. It also introduces themes and styles.
 
 #### Concepts explored
@@ -58,6 +69,8 @@ Simple project. It's a single activity - single screen app that acts as a tip ca
 ### [Affirmations](Affirmations/)
 
 *From the "Display a scrollable list" section*
+
+<img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/affirmations_1.png" width="200">
 
 Simple project. It's a single activity - single screen app that display a list of affirmations using a RecyclerView. It uses cards to display multiple elements inside the same item.
 
@@ -73,6 +86,11 @@ Simple project. It's a single activity - single screen app that display a list o
 
 *From the "Project: Dogglers App" codelab*
 
+<div style="float: left">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/dogglers_1.png" width="200">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/dogglers_2.png" width="200">
+</div>
+
 Simple project. It's a multiple activities - multiple screen app that displays a list of dogs using a RecyclerView. It introduces activity to activity navigation.
 
 #### Concepts explored
@@ -87,6 +105,11 @@ Simple project. It's a multiple activities - multiple screen app that displays a
 
 *From the "Navigate between screens" and "Introduction to the Navigation component" sections*
 
+<div style="float: left">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/words_1.png" width="200">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/words_2.png" width="200">
+</div>
+
 Medium project. It's a single activity - multiple fragments - multiple screens app. A letter is chosen to see a list of random words. A word can then be chosen to launch an implicit intent to open the word in a browser.
 
 #### Concepts explored
@@ -99,6 +122,11 @@ Medium project. It's a single activity - multiple fragments - multiple screens a
 ### [Unscramble](android-basics-kotlin-unscramble-app-starter/)
 
 *From the "Architecture components" section*
+
+<div style="float: left">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/unscramble_1.png" width="200">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/unscramble_2.png" width="200">
+</div>
 
 Medium project. It's a single activity - single fragment - single screen app. It's a game where the user has to unscramble a word. It introduces the ViewModel and LiveData concepts for app architecture.
 
@@ -113,6 +141,12 @@ Medium project. It's a single activity - single fragment - single screen app. It
 ### [Cupcake App](android-basics-kotlin-cupcake-app-starter/)
 
 *From the "Advanced navigation app examples" section*
+
+<div style="float: left">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/cupcake_app_1.png" width="200">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/cupcake_app_2.png" width="200">
+  <img src="https://raw.githubusercontent.com/amoralesc/android-basics-kotlin/main/screenshots/cupcake_app_3.png" width="200">
+</div>
 
 Medium project. It's a single activity - multiple fragments - multiple screens app that acts as a cupcake store. It has a bunch of screens displaying different input elements. It introduces advanced navigation techniques and the backstack.
 
