@@ -4,7 +4,7 @@ The course is divided into six units. This summary presents all the concepts exp
 
 ## Unit 1: Kotlin basics
 
-### [`Happy Birthday`](/HappyBirthday/)
+### [Happy Birthday](/HappyBirthday/)
 
 *From the "Build a basic layout" codelab*
 
@@ -15,7 +15,7 @@ Really simple project. It's a single activity app that displays a birthday messa
 - **Basic layouts:** ConstraintLayout
 - **Basic views:** ImageView, TextView 
 
-### [`Dice Roller`](/DiceRoller/)
+### [Dice Roller](/DiceRoller/)
 
 *From the "Add a button to an app" codelab*
 
